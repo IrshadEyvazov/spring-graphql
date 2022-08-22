@@ -23,7 +23,7 @@ jobs:
       - name: Telegram Notify
         uses: appleboy/telegram-action@master
         with:
-          to: https://t.me/+b76_z-lMLAwzOWRi
+          to: 1072174629
           token: 5567621018:AAE3v8SUDxUGheXaiXZX70rRt-SkEFywG2w
           format: markdown
           message: |
